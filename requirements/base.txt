@@ -3,4 +3,5 @@ argparse==1.2.1
 psycopg2==2.5.1
 wsgiref==0.1.2
 Unipath==1.0
+django-model-utils==1.4.0
 
